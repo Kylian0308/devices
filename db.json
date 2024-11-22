@@ -1,0 +1,22 @@
+{
+  "Devices": [
+    {
+      "id": 1,
+      "name": "Temperature Sensor",
+      "status": "active",
+      "location": "Warehouse A"
+    },
+    {
+      "id": 2,
+      "name": "Humidity Sensor",
+      "status": "inactive",
+      "location": "Office"
+    },
+    {
+      "id": 3,
+      "name": "Smart Light",
+      "status": "active",
+      "location": "Conference Room"
+    }
+  ]
+}
