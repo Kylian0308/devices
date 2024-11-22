@@ -1,22 +1,27 @@
 {
   "Devices": [
-    {
-      "id": 1,
-      "name": "Temperature Sensor",
-      "status": "active",
-      "location": "Warehouse A"
-    },
-    {
-      "id": 2,
-      "name": "Humidity Sensor",
-      "status": "inactive",
-      "location": "Office"
-    },
-    {
-      "id": 3,
-      "name": "Smart Light",
-      "status": "active",
-      "location": "Conference Room"
-    }
+    { "id": 1, "name": "Temperature Sensor", "status": "active", "location": "Warehouse A" },
+    { "id": 2, "name": "Humidity Sensor", "status": "inactive", "location": "Office" },
+    { "id": 3, "name": "Smart Light", "status": "active", "location": "Conference Room" },
+    { "id": 4, "name": "Smoke Detector", "status": "active", "location": "Kitchen" },
+    { "id": 5, "name": "Door Lock", "status": "inactive", "location": "Entrance" },
+    { "id": 6, "name": "Water Leak Sensor", "status": "active", "location": "Bathroom" },
+    { "id": 7, "name": "Thermostat", "status": "active", "location": "Living Room" },
+    { "id": 8, "name": "Motion Sensor", "status": "inactive", "location": "Garage" },
+    { "id": 9, "name": "CO2 Sensor", "status": "active", "location": "Bedroom" },
+    { "id": 10, "name": "Energy Meter", "status": "active", "location": "Main Panel" }
+  ],
+  "Locations": [
+    "Warehouse A",
+    "Office",
+    "Conference Room",
+    "Kitchen",
+    "Entrance",
+    "Bathroom",
+    "Living Room",
+    "Garage",
+    "Bedroom",
+    "Main Panel"
   ]
 }
+
